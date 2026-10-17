@@ -1,0 +1,7 @@
+{
+  "packageDirectories": [{ "path": "01-count-contacts/force-app", "default": true }],
+  "name": "coding-interview-code",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "68.0"
+}
