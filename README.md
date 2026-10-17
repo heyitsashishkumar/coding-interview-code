@@ -17,6 +17,10 @@ Use a free practice org, never a work org: a Developer Edition (sign up at `deve
    ```
 3. Open a video's folder and follow its README.
 
+## Licence
+
+[MIT](LICENSE): fork it, use it, change it, share it. Keep the licence notice.
+
 ---
 
 Salesforce, Trailhead and Apex are trademarks of Salesforce, Inc. This repo and the channel are not affiliated with Salesforce.
