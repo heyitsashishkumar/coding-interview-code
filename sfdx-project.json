@@ -1,5 +1,11 @@
 {
-  "packageDirectories": [{ "path": "01-count-contacts/force-app", "default": true }],
+  "packageDirectories": [
+    { "path": "01-count-contacts/force-app", "default": true },
+    { "path": "02-duplicate-emails/force-app", "default": false },
+    { "path": "03-opportunity-amounts/force-app", "default": false },
+    { "path": "04-primary-contact/force-app", "default": false },
+    { "path": "05-opportunity-limit/force-app", "default": false }
+  ],
   "name": "coding-interview-code",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",

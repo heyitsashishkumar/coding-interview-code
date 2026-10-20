@@ -5,6 +5,10 @@ The code from the **Freestyle Cyber Hub** coding interview videos, one folder pe
 | Video | The question | Folder |
 |---|---|---|
 | 1 | Count the contacts on an account, with a trigger | [01-count-contacts](01-count-contacts/) |
+| 2 | Stop duplicate contact emails before they're saved | [02-duplicate-emails](02-duplicate-emails/) |
+| 3 | Roll up opportunity amounts to the account | [03-opportunity-amounts](03-opportunity-amounts/) |
+| 4 | Recursion and the 200-record trap (at most one primary contact per account) | [04-primary-contact](04-primary-contact/) |
+| 5 | At most 5 open opportunities per account (counting in bulk) | [05-opportunity-limit](05-opportunity-limit/) |
 
 ## Before you start
 
